@@ -1,0 +1,298 @@
+{
+  "electronics": [
+    {
+      "id": "1",
+      "name": "Smartphone XYZ",
+      "price": 499.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Latest model with high-end features.",
+      "brand": "XYZ"
+    },
+    {
+      "id": "2",
+      "name": "Wireless Headphones Pro",
+      "price": 89.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Noise cancellation and comfort for all-day use.",
+      "brand": "SoundMaster"
+    },
+    {
+      "id": "3",
+      "name": "4K Ultra HD TV",
+      "price": 799.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Experience cinematic quality in your living room.",
+      "brand": "VisionTech"
+    },
+    {
+      "id": "4",
+      "name": "Bluetooth Speaker",
+      "price": 29.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Portable speaker with incredible sound.",
+      "brand": "SoundWave"
+    },
+    {
+      "id": "5",
+      "name": "Laptop Pro 15",
+      "price": 1299.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Powerful laptop for professionals and gamers.",
+      "brand": "TechMaster"
+    },
+    {
+      "id": "6",
+      "name": "Smartwatch Ultra",
+      "price": 199.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Track your fitness and notifications with style.",
+      "brand": "FitTech"
+    },
+    {
+      "id": "7",
+      "name": "Digital Camera Pro",
+      "price": 549.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Capture stunning photos in any light.",
+      "brand": "CamWorld"
+    },
+    {
+      "id": "8",
+      "name": "Gaming Mouse",
+      "price": 49.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Precision control for competitive gamers.",
+      "brand": "GameTech"
+    },
+    {
+      "id": "9",
+      "name": "Smart Home Hub",
+      "price": 89.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Control your home devices with ease.",
+      "brand": "HomeTech"
+    }
+  ],
+  "groceries": [
+    {
+      "id": "1",
+      "name": "Organic Apples",
+      "price": 4.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Fresh and organic apples, perfect for snacking.",
+      "category": "Fruits"
+    },
+    {
+      "id": "2",
+      "name": "Whole Wheat Bread",
+      "price": 2.49,
+      "image": "https://via.placeholder.com/150",
+      "description": "Healthy whole wheat bread, great for sandwiches.",
+      "category": "Breads"
+    },
+    {
+      "id": "3",
+      "name": "Almond Milk",
+      "price": 3.49,
+      "image": "https://via.placeholder.com/150",
+      "description": "Dairy-free milk alternative.",
+      "category": "Dairy"
+    },
+    {
+      "id": "4",
+      "name": "Organic Bananas",
+      "price": 1.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Fresh organic bananas for a healthy snack.",
+      "category": "Fruits"
+    },
+    {
+      "id": "5",
+      "name": "Green Kale",
+      "price": 2.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Fresh kale for smoothies and salads.",
+      "category": "Vegetables"
+    },
+    {
+      "id": "6",
+      "name": "Free-Range Eggs",
+      "price": 3.79,
+      "image": "https://via.placeholder.com/150",
+      "description": "Organic free-range eggs from local farms.",
+      "category": "Dairy"
+    },
+    {
+      "id": "7",
+      "name": "Avocados",
+      "price": 1.49,
+      "image": "https://via.placeholder.com/150",
+      "description": "Fresh avocados for guacamole or toast.",
+      "category": "Fruits"
+    },
+    {
+      "id": "8",
+      "name": "Carrots",
+      "price": 1.29,
+      "image": "https://via.placeholder.com/150",
+      "description": "Fresh carrots, perfect for snacking or cooking.",
+      "category": "Vegetables"
+    },
+    {
+      "id": "9",
+      "name": "Tomatoes",
+      "price": 2.49,
+      "image": "https://via.placeholder.com/150",
+      "description": "Fresh and juicy tomatoes.",
+      "category": "Vegetables"
+    }
+  ],
+  "clothing": [
+    {
+      "id": "1",
+      "name": "Men's Casual Shirt",
+      "price": 29.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Comfortable and stylish casual shirt for men.",
+      "category": "Shirts"
+    },
+    {
+      "id": "2",
+      "name": "Women's Summer Dress",
+      "price": 39.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Light and breezy summer dress for women.",
+      "category": "Dresses"
+    },
+    {
+      "id": "3",
+      "name": "Slim Fit Jeans",
+      "price": 49.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Stylish slim fit jeans for any occasion.",
+      "category": "Pants"
+    },
+    {
+      "id": "4",
+      "name": "Leather Jacket",
+      "price": 99.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Classic leather jacket for men.",
+      "category": "Jackets"
+    },
+    {
+      "id": "5",
+      "name": "Women's Sweater",
+      "price": 34.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Warm and cozy sweater for cold weather.",
+      "category": "Sweaters"
+    },
+    {
+      "id": "6",
+      "name": "Men's Blazer",
+      "price": 89.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Tailored blazer for professional and formal events.",
+      "category": "Jackets"
+    },
+    {
+      "id": "7",
+      "name": "Denim Jacket",
+      "price": 59.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Classic denim jacket for all seasons.",
+      "category": "Jackets"
+    },
+    {
+      "id": "8",
+      "name": "Sports T-shirt",
+      "price": 19.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Breathable sports t-shirt for workout.",
+      "category": "T-Shirts"
+    },
+    {
+      "id": "9",
+      "name": "Women's Skirt",
+      "price": 24.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Trendy and stylish skirt for casual wear.",
+      "category": "Skirts"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "name": "The Great Gatsby",
+      "price": 10.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "A classic novel about the American Dream.",
+      "author": "F. Scott Fitzgerald"
+    },
+    {
+      "id": "2",
+      "name": "1984",
+      "price": 9.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "A dystopian novel set in a totalitarian society.",
+      "author": "George Orwell"
+    },
+    {
+      "id": "3",
+      "name": "To Kill a Mockingbird",
+      "price": 8.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "A story of racial injustice in the American South.",
+      "author": "Harper Lee"
+    },
+    {
+      "id": "4",
+      "name": "The Catcher in the Rye",
+      "price": 7.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "A teenager's struggle with society and growing up.",
+      "author": "J.D. Salinger"
+    },
+    {
+      "id": "5",
+      "name": "The Hobbit",
+      "price": 12.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "The adventure of Bilbo Baggins in Middle-Earth.",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "id": "6",
+      "name": "Moby-Dick",
+      "price": 11.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "A quest for vengeance against a great white whale.",
+      "author": "Herman Melville"
+    },
+    {
+      "id": "7",
+      "name": "Pride and Prejudice",
+      "price": 6.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "A classic story of love, marriage, and social class.",
+      "author": "Jane Austen"
+    },
+    {
+      "id": "8",
+      "name": "Brave New World",
+      "price": 10.49,
+      "image": "https://via.placeholder.com/150",
+      "description": "A dystopian future where happiness is manufactured.",
+      "author": "Aldous Huxley"
+    },
+    {
+      "id": "9",
+      "name": "The Odyssey",
+      "price": 13.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "The epic journey of Odysseus back home.",
+      "author": "Homer"
+    }
+  ]
+}
