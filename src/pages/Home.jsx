@@ -12,7 +12,7 @@ function Home() {
   const [showReceipt, setShowReceipt] = useState(false);
   const [transactionId, setTransactionId] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("electronics");
- 
+
   const addToCart = (product) => {
     setCart((prevCart) => {
       const existingItemIndex = prevCart.findIndex(
