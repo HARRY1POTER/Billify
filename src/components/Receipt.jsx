@@ -55,5 +55,5 @@ const Receipt = ({
     </div>
   );
 };
- 
+
 export default Receipt;
