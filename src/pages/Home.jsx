@@ -1,10 +1,12 @@
+
+
 import React, { useState, useEffect } from "react";
 import Receipt from "../components/Receipt";
 import Cart from "../components/Cart";
 import ProductList from "../components/ProductList";
 import CategorySelector from "../components/CategorySelector";
 import productsData from "./productsData.json";
- 
+
 function Home() {
   const [cart, setCart] = useState([]);
   const [total, setTotal] = useState(0);

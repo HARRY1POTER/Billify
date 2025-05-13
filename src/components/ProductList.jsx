@@ -14,7 +14,7 @@ const ProductList = ({ products, addToCart }) => {
           </p>
           {/* <p className="text-gray-600">
             <strong>Stock:</strong> {product.stock}
-          </p> */}
+          </p> */} 
           <button
             onClick={() => addToCart(product)}
             className="mt-4 bg-teal-600 text-white py-2 px-6 rounded-full shadow-md hover:bg-teal-700 transition transform hover:scale-105"
