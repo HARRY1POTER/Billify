@@ -1,5 +1,3 @@
-
-
 import React, { useState, useEffect } from "react";
 import Receipt from "../components/Receipt";
 import Cart from "../components/Cart";
@@ -160,7 +158,6 @@ function Home() {
           paymentMethod={paymentMethod}
           generateReceipt={generateReceipt}
         />
-
         {showReceipt && (
           <Receipt
             cart={cart}
