@@ -158,6 +158,7 @@ function Home() {
           paymentMethod={paymentMethod}
           generateReceipt={generateReceipt}
         />
+
         {showReceipt && (
           <Receipt
             cart={cart}
