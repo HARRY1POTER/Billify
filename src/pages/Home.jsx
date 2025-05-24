@@ -51,7 +51,7 @@ function Home() {
   const handlePaymentMethod = (method) => {
     setPaymentMethod(method);
   };
-
+ 
   const generateReceipt = () => {
     setTransactionId("TX" + Math.floor(Math.random() * 1000000));
     setShowReceipt(true);

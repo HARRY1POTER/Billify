@@ -19,5 +19,5 @@ const CategorySelector = ({ categories, selectedCategory, changeCategory }) => {
     </div>
   );
 };
- 
+
 export default CategorySelector;
